@@ -2,3 +2,5 @@ Hello,Git
 My name is aseng
 Lupa nambahin ni
 From player two
+from player 1
+
